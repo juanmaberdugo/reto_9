@@ -1,6 +1,7 @@
 # reto_9
 
 - Add the @property decorator into the package Shape, so all the protected data could be accessed this way.
+
 Para este caso en la clase shape se tomaron los atributos vertices, edges e inner_angles y se cambiaron a tipo protegido luego usando el decorador @property se crearon metodos para acceder a la informacion de estos atributos tambien se uso el decorador @.setter para poder cambiar el valor de estos.
 
 ```python
